@@ -1,0 +1,30 @@
+### A Necessary Bit of Terminology Untangling
+"Caravan" as a term is most strongly associated with overland trade routes in the Middle East, Central Asia, and North Africa (think Silk Road or trans-Saharan trade) rather than being standard medieval _European_ vocabulary — but the underlying concept, organized groups of merchants and goods traveling together overland for safety and efficiency, absolutely existed in Europe too, just under different organizational names and structures. There wasn't a single, unified "caravan guild" institution, but several real medieval structures map onto what you're picturing.
+### Why Merchants Traveled in Groups
+Medieval roads were genuinely dangerous and difficult:
+- **Banditry**: poorly policed roads, especially through forests or remote stretches, made lone or small groups of merchants vulnerable targets
+- **Practical logistics**: pooling pack animals, wagons, guards, and knowledge of routes/conditions made sense economically and logistically
+- **Tolls and local politics**: traveling merchants needed to navigate a patchwork of different lords' territories, each potentially imposing tolls, requiring negotiation or established relationships to pass through smoothly
+- **Mutual aid**: shared risk (if one merchant's goods were damaged or stolen, group customs sometimes provided for shared compensation) made group travel financially safer too
+### Merchant Guilds — The Closest Real Structural Equivalent
+Rather than a guild specifically for "caravanning," **[[Merchant Guild]]s** themselves often organized and regulated long-distance trade travel as part of their broader function:
+- **Merchant guilds (distinct from craft guilds)**: organizations of traders (rather than craftsmen) that controlled trade rights, often holding monopolies or privileged status for trade in a particular town or region, and establishing rules for how members conducted business — including organizing collective travel for safety
+- **The Hanseatic League**: probably the best-known and most directly relevant real example — a powerful confederation of merchant guilds and market towns, primarily across Northern Germany and the Baltic/North Sea region, that organized collective trade, established trading posts (_kontors_) in foreign cities, maintained shared legal and commercial standards, and provided mutual protection for member merchants' trade routes and shipping. This is genuinely the closest historical European analog to what a "caravan guild" might mean in your setting — an organized, multi-city trade confederation protecting and regulating its members' long-distance commerce.
+- **Staple towns and staple rights**: certain towns held exclusive legal rights to be the required trading point for specific goods (wool was a famous example in England), channeling and organizing trade flow through controlled, regulated points
+### Convoys and Armed Escort
+- **Merchant convoys**: groups of merchants traveling together, sometimes with hired guards or even accompanied by men-at-arms provided by a sponsoring lord or guild, especially for valuable cargo or particularly dangerous routes
+- **Safe conducts**: formal documents issued by a lord or king granting protected passage through their territory — a legal/diplomatic tool to facilitate trade travel safely, with violation of a safe conduct treated as a serious offense
+- **Toll negotiations**: organized merchant groups had more leverage to negotiate favorable, consistent toll arrangements with the various lords whose land they crossed, compared to individual travelers facing ad hoc demands
+### Pack Trains and Carting Logistics
+For the actual physical movement of goods overland (since Europe's road network, river system, and terrain differed somewhat from desert caravan routes):
+- **Pack animals**: horses, mules, and donkeys carried goods via panniers on routes unsuitable for wheeled transport (mountain passes, poor roads)
+- **Carters and wagon trains**: where roads permitted, wheeled transport with horse or ox-drawn carts moved bulk goods, organized into trains for the same safety-in-numbers logic
+- **River transport**: where possible, water transport was often preferred over overland routes entirely, since it was generally faster, cheaper, and could move much larger volumes — this is part of why so much medieval trade and many major trade cities cluster along rivers and coasts
+### Pilgrimage Routes — A Related Travel-Organization Structure
+Worth mentioning as a related phenomenon: organized group travel also existed heavily around **pilgrimage** (to Santiago de Compostela, Rome, Jerusalem, Canterbury, and other major shrines), with established routes, waystations, hostels (as covered in the [[Boardinghouse]]), and group travel for safety — a different purpose than trade, but a similar underlying logic of organized, protected overland group movement.
+### Worldbuilding Angle
+Since "caravan guild" isn't a precise historical term but maps onto real structures, you have real freedom here — a few hooks:
+- **A Hanseatic-League-style merchant confederation** as a major faction in your setting — multiple cities bound together by trade interest, with their own fleet/caravan protection forces, internal law, and significant political leverage independent of any single crown
+- **A dedicated caravan guild** as a genuinely useful invented institution for your setting — organizing and licensing protected trade caravans between cities, hiring guards (a great source of mercenary/adventurer work), negotiating safe conducts with local rulers, and serving as a quest-giving hub for "escort the caravan" missions
+- **Safe conduct documents** as a plot-relevant magic or legal item — perhaps backed by actual magical enforcement (anyone violating a safe conduct suffers a curse or is marked for retribution), giving the diplomatic tool some fantastical teeth
+- **Toll disputes and bandit threats along trade routes** as classic, well-grounded adventure hooks — a caravan guild hiring the party to investigate why shipments keep disappearing on a particular stretch of road, or to negotiate/intimidate a toll-greedy local lord

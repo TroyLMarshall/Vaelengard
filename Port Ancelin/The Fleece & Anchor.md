@@ -1,0 +1,16 @@
+The Fleece & Anchor, whose current proprietor is [[Margery Thorn]], sits at the corner of Celyn Street, just up the hill from the harbour — close enough that you can still hear the gulls and smell the tar, far enough that sailors and townsfolk meet on neutral ground.
+## **Origins**
+The tavern's site is the oldest claimed plot in Port Ancelin — supposedly the very spot where Ancelin de Varnay built his first dwelling after landing in the 1080s. When his descendants moved up to the grander hall on the hill, the old timber-and-stone house was sold off and converted into an inn, a sheep resting on an anchor worked into a sign above the door, marrying the wool trade to the sea that carried it away.
+## **Character**
+It's a low, smoke-blackened building with thick oak beams salvaged, legend says, from a wrecked Hanseatic cog. The common room is always crowded with an odd mix of people who'd otherwise never share a table — wool factors haggling over prices, ship captains waiting on tides, shearers spending their seasonal pay, and the occasional Flemish or Italian merchant trying to pick up gossip in broken Norman French.
+## **Reputation**
+Because it sits between the merchant quarter and the docks, the Fleece & Anchor has become the unofficial place where deals get struck before they're ever written down at La Foire. Locals say more wool contracts are settled over its tables — sealed with a handshake and a tankard — than in the market itself. The innkeeper's family, the **Thorns**, have run it for four generations and are famously tight-lipped about whose business they overhear.
+## Staff
+### **Wat Coombe** — _the potboy/general hand_, around 15
+A local orphan Margery took in five years ago "because he was too quiet to say no to." Fetches casks, scrubs floors, and runs messages across town. He's sharp-eared and sharper-memoried — Margery's quietly training him to listen the way she does, though he doesn't fully realize it yet. He idolizes her and would never repeat a word he hears in that common room.
+### **Old Pell** — _the cook_, sixties
+A former ship's cook who lost a leg to a shipboard accident decades ago and was taken on by Margery's mother as a favor to his captain. Makes a mutton stew that regulars swear is half the reason the tavern survives slow winters. Deaf in one ear from years near cannon and rigging, which makes him either oblivious to gossip or — depending who you ask — the best secret-keeper in the building, since half of what's said never reaches him at all.
+### **Iseult Carrow** — _barmaid_, late twenties
+Sharp-tongued, quick with a tray, and the only person in the building who'll talk back to Margery without flinching. Daughter of a wool factor's clerk, which means she understands the trade talk better than most barmaids would, and occasionally drops a shrewd comment into a negotiation that changes its course. There's an unspoken understanding that she might inherit a share of the tavern someday, though Margery has never said so outright.
+
+![[fleece-and-anchor-tavern.png]]

@@ -1,0 +1,15 @@
+**Varnay Quay** is the working face of Port Ancelin — the strip of harbour where the entire town's wealth physically changes hands, loaded bale by bale onto the ships that carry it away.
+## **Layout**
+A stone-built quay, sturdier and better maintained than most of the town's infrastructure, since the de Varnay family has always understood that a damaged pier or a silted harbour is a direct threat to everyone's livelihood, theirs included. It runs along the waterfront just below Warehouse Row, with a short, well-worn cart route connecting the two — wool moves from storage to ship in minutes rather than hours.
+## **Daily Rhythm**
+The Quay's pace shifts dramatically with the seasons. During the trading months, when Flemish, Hanseatic, and occasional Italian-chartered ships crowd the harbour, it's loud and constant — cart-loaders hauling bales, dockhands shouting tallies, ship's mates checking cargo against bills of sale. In the dead of winter, when few ships risk the crossing, the Quay quiets to little more than local fishing boats and the occasional desperate merchant trying to beat the weather.
+## **Who Works There**
+- **Dockhands and cart-loaders** — the Quay's backbone, physical work with little status, though steady and always in demand during trading season. This is where the disgraced grader Hugh Mallow now works, in full view of the harbour he once oversaw from a position of authority at La Foire.
+- **[[The harbourmaster]]** — appointed jointly by the wool guild and the de Varnay family, responsible for berths, loading order, and collecting the harbour dues that flow partly to the town and partly to the Hall.
+- **Customs and tally clerks** — keeping count of what leaves on which ship, partly for taxation and partly so the town can track which foreign buyers are taking how much wool, useful intelligence for the guild's pricing decisions.
+## **The Dues Question**
+Harbour dues are one of the more sensitive arrangements in town — a customary cut to the de Varnay family for the use of "their" harbour, a holdover from Ancelin's original investment in the quay generations ago. Most factors accept it as simply how things have always worked, but it's exactly the kind of arrangement that Renier de Varnay has reportedly mused about "modernizing" — quietly alarming older merchants who suspect modernizing is a polite word for raising.
+## **Hazards & Realities**
+Storms are the Quay's great fear, capable of damaging ships, cargo, and the stonework itself in a single bad night. There's also the ever-present tension of overcrowding during peak season — too many ships competing for too few berths, which makes the harbourmaster's loading-order decisions a frequent source of friction between rival factors trying to get their wool out on the most favorable ship first.
+## **A Visible Landmark**
+Ships approaching from the sea use St Ancelin's spire to navigate toward the harbour, but it's the Quay itself — and the forest of masts crowded against it in trading season — that tells sailors they've truly arrived at one of the coast's most prosperous wool ports.

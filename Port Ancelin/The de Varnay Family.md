@@ -1,0 +1,13 @@
+**Sir Walter de Varnay**, fourth of that name, holds Ancelin Hall and the de Varnay seat — though most of the town simply calls him **"old Sir Walter,"** a title that's grown more literal with each passing year.
+## **Background**
+In his early sixties now, Walter inherited the Hall young, after his father died of a fever during a bad trading season that nearly ruined several Warehouse Row factors alongside him. That early, difficult inheritance shaped him — he came to power watching the town suffer and learned early that a de Varnay who mismanaged the wool trade's fortunes would lose far more than money.
+## **Temperament**
+Cautious, watchful, and notably more comfortable with ledgers than with the sword his ancestors carried. He's spent his decades in power consolidating the family's _soft_ influence rather than expanding it — careful never to overreach with the wool guild, generous (visibly so) with the church tithe, and known for settling guild disputes with patience rather than favoritism. Some call this wisdom; a few sharper-tongued factors call it caution born of fear that the town could do without a de Varnay far more easily than a de Varnay could do without the town.
+## **Family**
+- **Lady Isabeau de Varnay**, his wife, a quietly formidable presence in her own right — it's whispered around town that she has a sharper head for trade arithmetic than her husband, and that several of his "wise" guild rulings were hers first.
+- **Renier de Varnay**, his eldest son and heir, in his thirties, restless and more interested in expanding the family's reach than his father ever was — a source of quiet tension at the Hall, since Renier has made comments about modernizing harbour dues and taking a firmer hand with the guild that make older townsfolk uneasy.
+- **Cecile de Varnay**, his daughter, married off several years ago to a Flemish merchant family — a match that strengthened the town's trading ties to Bruges considerably, and one many suspect was Isabeau's doing more than Walter's.
+## **Public Role**
+Walter presides over major guild disputes from the Hall, attends St Ancelin's on feast days with the full pageantry the family name demands, and is a familiar, unhurried presence walking Celyn Street — townsfolk say you can set your morning by when "old Sir Walter" passes the Fleece & Anchor on his way down to check the harbour.
+## **A Coming Tension**
+Most in town suspect that whatever uneasy balance Walter has maintained between authority and restraint won't survive his passing. Renier's ambitions are an open secret, and more than one factor at Warehouse Row has begun quietly wondering how the town's relationship with the Hall might change once he takes his father's seat.

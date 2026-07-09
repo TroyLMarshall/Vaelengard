@@ -1,0 +1,11 @@
+**Osric Fenn**, mid-fifties, has held the post for nearly fifteen years — long enough to know every berth, every captain's temperament, and every factor's tricks for jumping the loading queue.
+## **Background**
+Osric wasn't born to the post. He spent his younger years as a dockhand and later a ship's mate on coastal trading vessels, which means he understands the Quay from both sides — the frustration of waiting on a slow harbourmaster's decision, and the pressure of making those decisions himself. Sir Walter appointed him personally after the previous harbourmaster died, reportedly because Walter wanted someone the guild would respect and the dockhands wouldn't resent — a rare appointment where both the Hall and the wool guild agreed without much argument.
+## **Temperament**
+Blunt, practical, and almost comically unimpressed by status — he's been known to make a wealthy Hanseatic merchant wait his turn behind a local fishing boat if that's simply the order ships arrived in. This even-handedness is exactly why he's lasted in a job that chews through lesser men's patience; factors grumble about his decisions constantly, but rarely about his fairness.
+## **Method**
+Osric keeps the loading order in his head rather than any written ledger, a point of quiet pride — he claims a written list just invites bribery and arguments over technicalities, while a harbourmaster's memory is harder to dispute, since everyone watched the ships arrive with their own eyes. Whether this is wisdom or simple stubbornness is a favorite debate at the Fleece & Anchor.
+## **Relationship to the Hall**
+Walks a careful line with the de Varnay family — loyal enough to have earned the post, but known to push back, quietly and respectfully, when he thinks a Hall decision threatens the Quay's smooth running. It's said he was one of the few people who raised concerns directly to Sir Walter about Renier's talk of "modernizing" harbour dues, worried that whatever Renier has in mind could disrupt a system that, however imperfect, has kept the harbour running without serious incident for fifteen years.
+## **A Personal Detail**
+Lost two fingers on his left hand years ago in a loading accident — a fact he brings up himself, dryly, whenever a new dockhand gets careless, as a much more effective warning than any written safety rule could be.

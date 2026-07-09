@@ -1,0 +1,37 @@
+### The Informal, Mobile End of the Trade Economy
+We've covered merchants, market stalls, and guild-organized trade throughout this list — the peddler sits at the opposite end of that spectrum, representing **trade without fixed premises, guild membership, or significant capital**, and occupying a genuinely important niche in the medieval economy precisely because of these characteristics rather than despite them.
+### What Made a Peddler Different From Other Traders
+The defining features of peddling as a trade:
+- **No fixed shop or stall**: a peddler carried their goods with them, traveling to customers rather than waiting for customers to come to them
+- **Small-scale, low-capital operation**: peddlers typically dealt in low-value, high-turnover goods rather than the significant merchandise handled by guild merchants
+- **Operating outside or at the margins of guild structure**: this was both the peddler's practical freedom and their legal/social vulnerability — guild merchants in many towns actively resented and sought to restrict peddlers who sold competing goods without guild membership, overhead costs, or quality regulation obligations
+### What Peddlers Actually Sold
+The range was genuinely broad, since the peddler's niche was specifically goods that benefited from being brought directly to customers rather than requiring customers to come to a market:
+- **Needles, pins, and thread**: small, lightweight, universally needed sewing supplies — classic peddler stock given their universal demand, low weight relative to value, and the genuine convenience of having them brought to you rather than making a trip to town
+- **Ribbons, laces, and small cloth accessories**: connecting to the dyer and textile entries, small decorative fabric items
+- **Spices in small quantities**: peddlers sometimes carried small amounts of common spices, reaching customers who couldn't easily access a town market
+- **Medicines and remedies**: traveling sellers of herbal preparations and folk remedies, connecting to the herbalist and apothecary entries — this end of peddling shaded into the traveling charlatan/patent medicine tradition touched on in the doctor/dentist entry's discussion of itinerant tooth-drawers
+- **Printed material** (later medieval period): as printing began developing toward the end of the medieval period, peddlers became important distributors of cheap printed material — pamphlets, ballads, religious images — reaching audiences far from urban book-sellers
+- **Miscellaneous small goods**: buttons, combs (connecting to the bone carver entry), small tools, and whatever other small, lightweight, universally-needed items could be profitably carried and sold door to door
+### How Peddling Actually Worked
+- **Pack and basket carrying**: most peddlers carried their stock on their backs or in baskets/packs — the image of the peddler with a large pack is genuinely historically accurate, since lack of a cart or beast of burden was part of what defined small-scale peddling
+- **Pack animals for slightly more substantial operations**: a somewhat more prosperous peddler might use a donkey or horse to carry a larger stock, representing a step up from the purely foot-carried operation
+- **Routes and regularity**: successful peddlers often developed regular routes through specific villages and rural areas, becoming recognizable recurring figures whose arrival was anticipated — connecting rural households to goods they couldn't easily access otherwise
+- **Seasonal patterns**: some peddling was genuinely seasonal — particular goods (agricultural tools before planting, certain textiles before winter) had obvious seasonal demand peaks worth targeting
+### Who Became Peddlers
+- **Low entry barriers**: like basket weaving and broom making covered earlier, peddling required minimal capital to begin — buy a small stock of goods, carry them to customers, reinvest proceeds in more stock — making it one of the more accessible trades for those without resources to enter guild-organized commerce
+- **Marginal populations**: peddling provided economic survival for various groups with limited access to guild-organized trades — Jewish traders in regions where guild membership required Christian faith (connecting to the banker entry's discussion of guild exclusion), recently widowed women needing independent income, migrants without established guild connections in a new town, and others without the connections or capital for more formal trade
+- **Wandering poor**: at the lower end, peddling merged with the more desperate mobile survival strategies covered in the beggar entry — someone carrying a few items more as an excuse to beg or solicit than as a genuine commercial operation
+### Legal and Social Status
+- **Guild hostility**: as mentioned, guild merchants actively tried to restrict peddler competition, viewing them as undercutting legitimate guild trade without bearing guild costs, quality obligations, or civic contributions — various town regulations attempted to limit what peddlers could sell within town bounds, require licensing, or restrict their access to markets
+- **Suspicion and marginality**: peddlers, traveling without fixed address, guild affiliation, or settled community ties, drew similar suspicion to the traveling entertainers covered in that entry — association with the broader "masterless," mobile population that authorities increasingly viewed with anxiety as the medieval period progressed
+- **Useful and sometimes welcomed**: despite the suspicion, peddlers genuinely served communities — particularly rural households far from market towns — with goods they couldn't easily access otherwise, creating real demand that kept the trade viable despite the social/legal friction
+### Regional and Ethnic Specialization
+- **Jewish peddling networks**: in regions where Jewish communities faced guild exclusion and restrictions on landholding, peddling and small-scale itinerant trade became economically significant within these communities — sometimes developing into more substantial merchant networks over time, connecting to the banker entry's broader discussion of Jewish economic niche specialization within medieval economies
+- **Specific regional goods**: peddlers sometimes became associated with particular goods from specific regions — connecting consumers to products from elsewhere in the same way larger-scale merchants did, just at smaller scale and more directly
+### Worldbuilding Angle
+A few fantasy-flavored hooks:
+- A peddler NPC as an information network node — someone who regularly travels between settlements, knows everyone slightly, and accumulates news and gossip across a wide area as a natural byproduct of their trade, making them a natural information source for PCs willing to engage with them
+- A peddler whose stock includes something genuinely unusual or magical mixed among ordinary goods — perhaps not even aware of what they're carrying, having acquired it innocuously from someone along their route
+- The peddler/guild-merchant tension as a small but textured local conflict — perhaps a town's guild has cracked down on peddlers recently, creating both an aggrieved peddler community and an information vacuum in surrounding rural areas that previously depended on them
+- A peddler as a PC background — someone who's seen a wide geographic area, knows many people superficially rather than any community deeply, and has a particular eye for what things are actually worth versus what people will pay for them
